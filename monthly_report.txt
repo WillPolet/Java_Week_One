@@ -1,0 +1,3 @@
+VisitingPatients: 2170
+Radiology: 173
+Cardiology: 90

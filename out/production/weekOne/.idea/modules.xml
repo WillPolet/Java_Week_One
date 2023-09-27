@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hello_exceptions/Hello_exceptions.iml" filepath="$PROJECT_DIR$/Hello_exceptions/Hello_exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/weekOne.iml" filepath="$PROJECT_DIR$/.idea/weekOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../weekTwo/weekTwo.iml" filepath="$PROJECT_DIR$/../weekTwo/weekTwo.iml" />
+    </modules>
+  </component>
+</project>
